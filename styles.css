@@ -1,2 +1,22 @@
 
+
 /* Your CSS Code here. */
+table, td,th{
+	border: 1px solid black;
+	text-align:center;
+	
+}
+table{
+	width:100%;
+}
+.row{
+	padding:80px 0;
+}
+.row2{
+	padding:30px 0;
+}
+.htm{
+	background-color: black;
+	color: white;
+	
+}
